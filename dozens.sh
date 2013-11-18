@@ -4,9 +4,10 @@
 #  bash
 #
 # description:
-#  Zabbix API Client
+#  Dozens API Client
 #
 set -e
+set -o pipefail
 
 # include files
 
